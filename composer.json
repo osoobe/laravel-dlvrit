@@ -1,6 +1,6 @@
 {
     "name": "osoobe/laravel-dlvrit",
-    "description": "A description for laravel-dlvrit.",
+    "description": "Laravel package for Dlvr.it API",
     "type": "package",
     "license": "MIT",
     "keywords": [
